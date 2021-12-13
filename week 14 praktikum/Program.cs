@@ -63,7 +63,6 @@ namespace praktikum_w14
                 }
             }
             prima(input, cek);
-
         }
     }
 }
